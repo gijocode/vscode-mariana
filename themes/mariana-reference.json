@@ -250,7 +250,6 @@
 			"scope": "constant.language",
 			"settings": {
 				"foreground": "RED",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -260,7 +259,6 @@
 			],
 			"settings": {
 				"foreground": "BLUE",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -360,7 +358,6 @@
 			"scope": "storage.type",
 			"settings": {
 				"foreground": "PURPLE",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -405,7 +402,6 @@
 			],
 			"settings": {
 				"foreground": "BLUE",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -432,7 +428,7 @@
 			"scope": "entity.other.inherited-class",
 			"settings": {
 				"foreground": "TEAL",
-				"fontStyle": "italic underline"
+				"fontStyle": "underline"
 			}
 		},
 		{
@@ -447,7 +443,6 @@
 			"scope": "variable.language",
 			"settings": {
 				"foreground": "RED",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -483,7 +478,6 @@
 			],
 			"settings": {
 				"foreground": "BLUE",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -491,7 +485,6 @@
 			"scope": "support.constant",
 			"settings": {
 				"foreground": "PURPLE",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -506,7 +499,6 @@
 			"scope": "support.type",
 			"settings": {
 				"foreground": "BLUE",
-				"fontStyle": "italic"
 			}
 		},
 		{
