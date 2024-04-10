@@ -14,9 +14,6 @@
 		"type": "git",
 		"url": "https://github.com/gijocode/vscode-mariana.git"
 	},
-	"sponsor": {
-		"url": ""
-	},
 	"author": "gijocode",
 	"publisher": "gijocode",
 	"version": "0.99.99",
