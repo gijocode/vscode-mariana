@@ -249,7 +249,7 @@
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "RED",
+				"foreground": "RED"
 			}
 		},
 		{
@@ -258,7 +258,7 @@
 				"variable.other.constant.object"
 			],
 			"settings": {
-				"foreground": "BLUE",
+				"foreground": "BLUE"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"name": "Storage type",
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "PURPLE",
+				"foreground": "PURPLE"
 			}
 		},
 		{
@@ -401,7 +401,7 @@
 				"punctuation.definition.typeparameters"
 			],
 			"settings": {
-				"foreground": "BLUE",
+				"foreground": "BLUE"
 			}
 		},
 		{
@@ -442,7 +442,7 @@
 			"name": "Language variable",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "RED",
+				"foreground": "RED"
 			}
 		},
 		{
@@ -477,14 +477,14 @@
 				"support.macro"
 			],
 			"settings": {
-				"foreground": "BLUE",
+				"foreground": "BLUE"
 			}
 		},
 		{
 			"name": "Library constant",
 			"scope": "support.constant",
 			"settings": {
-				"foreground": "PURPLE",
+				"foreground": "PURPLE"
 			}
 		},
 		{
@@ -498,7 +498,7 @@
 			"name": "Library type",
 			"scope": "support.type",
 			"settings": {
-				"foreground": "BLUE",
+				"foreground": "BLUE"
 			}
 		},
 		{
